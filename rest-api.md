@@ -76,7 +76,7 @@ Si vous utilisez VS Code, vous pouvez installer l'extension [REST Client](https:
 
 - Voir une démo rapide de l'extension VS Code REST Client
     
-    ![3%20REST%20API%204973ea32555049049a2a5e24a026e768/rest-client.gif](3%20REST%20API%204973ea32555049049a2a5e24a026e768/rest-client.gif)
+    ![images/rest-client.gif](./images/rest-client.gif)
     
 
 ### `GET /users`

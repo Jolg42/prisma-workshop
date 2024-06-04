@@ -39,7 +39,7 @@ Vous pouvez trouver toutes les informations pour suivre l'atelier [ici](https://
 
 # Ressources
 
-**Raccourci pour cette page Notion** 
+**Raccourci pour cette page Github** 
 
 [`https://pris.ly/2021-intro-fr`](https://pris.ly/2021-intro-fr)
 
@@ -67,20 +67,6 @@ Ensuite, vous découvrirez Prisma Client, un *query builder* *type-safe* qui peu
 Ensuite, vous apprendrez comment utiliser Prisma Client pour implémenter les routes d'une API REST (*leçon 3*).
 
 Enfin, nous verrons comment utiliser Prisma Client pour implémenter les résolveurs d'une API GraphQL (*leçon 4*).
-
-# Agenda
-
-*(Heure de Paris - CEST)*
-
-**14:00:** Coup d'envoi
-
-**14:10:** Configuration de Prisma, modélisation de données et migrations (*leçon 1*)
-
-**14:30:** Explorez Prisma Client pour interroger votre base de données (*leçon 2*)
-
-**15:10:** Implémentez les routes REST API avec Express (*leçon 3*)
-
-**15:40:** Implémentez des résolveurs GraphQL avec Apollo Server (*leçon 4*)
 
 # Leçons
 

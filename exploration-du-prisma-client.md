@@ -36,7 +36,7 @@ Vous pouvez continuer à travailler dans le même projet `prisma-workshop` que v
     
     - Ouvrez pour une capture d'écran de l'autocomplétion
         
-        ![2%20Exploration%20du%20Prisma%20Client%20d15e11af643f4652b45ee9170e508689/Untitled.png](2%20Exploration%20du%20Prisma%20Client%20d15e11af643f4652b45ee9170e508689/Untitled.png)
+        ![Untitled.png](./images/Untitled.png)
         
     
     Une fois que vous avez tapé la ligne `const result = await prisma.` dans votre éditeur, une petite popup s'affiche et vous permet de sélectionner les options pour composer une requête (par exemple, sélectionner un modèle que vous voulez interroger ou utiliser une autre fonction de haut niveau comme `$queryRaw` ou `$transaction`). L'autocomplétion est disponible pour l'ensemble de la requête, y compris les arguments que vous pourriez vouloir fournir !
